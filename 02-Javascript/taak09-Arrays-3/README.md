@@ -6,19 +6,54 @@
 
 #### Array push
 
-Het handige van een lijstje is dat de lengte daarvan kan veranderen. Je kunt dingen verwijderen en dingen toevoegen. Om in javascript een element toe te voegen aan het einde van een array gebruik je de `array.push` methode. 
+Het handige van een lijstje is dat de lengte daarvan kan veranderen. Je kunt dingen verwijderen en dingen toevoegen. Om in javascript een element toe te voegen aan het einde van een array gebruik je de `array.push` methode. Zie onderstaande code:
 
-In `index.html` zijn nu de gegevens uit de topFilms array nu in een `ordered list` geplaatst.
+```js
+topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"];
+topFilms.push("Tenet");
+```
+De array topFilms bestaat nu uit vier elementen met als laatste element (met als index 3) de film "Tenet". 
+
+Omdat arrays dus dynamisch kunnen veranderen wil je vaak ook weten hoeveel elementen er in een array zitten op een bepaald moment in je programma. Dit doe je door de `array.length` eigenschap (property) aan te spreken.
+
+```js
+topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"];
+console.log(topFilms.length); // toont 3 in je console
+
+topFilms.push("Tenet");
+console.log(topFilms.length); // toont 4 in je console
+```
+ 
+In `index.html` zijn nu de gegevens uit de topFilms array nu in een `ordered list` geplaatst. De inhoudt daarvan wordt gevuld vanuit `script.js` met behulp van een `for-loop`. Hierover later meer.
+
+#### Waardes overzetten van 1 array in een andere
+Stel dat je nu een nieuwe array wilt aanmaken met de top 3 films waarbij de volgorde is omgedraaid.
+
+```js
+topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"];
+topFilmsOmgedraaid = []; //lege array, hierin komen de films uit topFilms in omgekeerde volgorde
+
+topFilmsOmgedraaid.push(topFilms[2]); 
+topFilmsOmgedraaid.push(topFilms[1]);
+topFilmsOmgedraaid.push(topFilms[0]);
+
+console.log(topFilmsOmgedraaid); // Toont het array object waarbij de elementen van volgorde zijn veranderd.
+```
 
 ### Leerdoelen
 
-1. Ik kan een waarde toevoegen aan een array
+1. Ik kan een waarde toevoegen aan een array.
 
 ### Opdracht
 
 1. Schrijf code die het volgende doet:
-
-
+   1. Als je op de knop `Kies film voor plek 1` klikt verschijnt er een prompt met de vraag welke film de gebruiker op plek 1 moet staan.
+   2. De gekozen film naam wordt toegevoegd aan de `eigenTopFilms` array.
+   3. De naam van de film wordt getoond in de console
+   4. De naam van de film wordt in de `Eigen Top 3 Films` ordered list gezet
+   5. De tekst op de button veranderd van van `Kies film voor plek 1` naar `Kies film voor plek 2`, etc.
+   6. Zorg ervoor dat er drie films een nieuwe plek krijgen in de `eigenTopFilms` array en getoond worden in de `Eigen Top 3 Films` ordered list.
+   7. :rocket: EXTRA: het is wel handig als de gekozen films niet meer in het lijstje voorkomen wanneer je een volgende keuze gaat maken. Kijk of je dit voor elkaar kunt krijgen door de `display` property van het gekozen list item op `hidden` te zetten.
 ### Eindresultaat
 
 

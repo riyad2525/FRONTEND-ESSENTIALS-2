@@ -13,33 +13,16 @@ topFilms = [
 
 eigenTopFilms = [];
 
-// console.log(topFilms);
-
-// document.querySelector(".film1-ranking").innerHTML = 1;
-// document.querySelector(".film1-naam").innerHTML = topFilms[0];
-// document.querySelector(".film2-ranking").innerHTML = 2;
-// document.querySelector(".film2-naam").innerHTML = topFilms[1];
-// document.querySelector(".film3-ranking").innerHTML = 3;
-// document.querySelector(".film3-naam").innerHTML = topFilms[2];
-// document.querySelector(".film4-ranking").innerHTML = 4;
-// document.querySelector(".film4-naam").innerHTML = topFilms[3];
-// document.querySelector(".film5-ranking").innerHTML = 5;
-// document.querySelector(".film5-naam").innerHTML = topFilms[4];
-// document.querySelector(".film6-ranking").innerHTML = 6;
-// document.querySelector(".film6-naam").innerHTML = topFilms[5];
-// document.querySelector(".film7-ranking").innerHTML = 7;
-// document.querySelector(".film7-naam").innerHTML = topFilms[6];
-// document.querySelector(".film8-ranking").innerHTML = 8;
-// document.querySelector(".film8-naam").innerHTML = topFilms[7];
-// document.querySelector(".film9-ranking").innerHTML = 9;
-// document.querySelector(".film9-naam").innerHTML = topFilms[8];
-// document.querySelector(".film10-ranking").innerHTML = 10;
-// document.querySelector(".film10-naam").innerHTML = topFilms[9];
-
-for(i = 1; i <= 10; i++){
-    document.querySelector(".imdb-film"+ i).innerHTML = topFilms[i-1];
+for(i = 0; i < topFilms.length; i++){
+    document.querySelector(".imdb-film" + (i+1)).innerHTML = topFilms[i];
 }
 
-function kiesFavorieteFilm(){
-
+function kiesFilm(){
+    numKeuze = eigenTopFilms.length + 1;
+    keuze = prompt("Welke film staat op plek " + numKeuze);
+    eigenTopFilms.push(topFilms[keuze-1]);
+    document.querySelector(".kiesfilm-button").innerHTML = "Kies Film voor plek " + (numKeuze + 1);
+    document.querySelector(".eigen-film" + numKeuze).innerHTML = eigenTopFilms[numKeuze -1];
+    console.log(eigenTopFilms[numKeuze -1]);
+    document.querySelector(".imdb-film" + (numKeuze+1)).style.textDecoration = "line-through";
 }
