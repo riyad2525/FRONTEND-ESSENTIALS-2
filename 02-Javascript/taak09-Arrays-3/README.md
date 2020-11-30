@@ -53,9 +53,10 @@ console.log(topFilmsOmgedraaid); // Toont het array object waarbij de elementen 
    4. De naam van de film wordt in de `Eigen Top 3 Films` ordered list gezet
    5. De tekst op de button veranderd van van `Kies film voor plek 1` naar `Kies film voor plek 2`, etc.
    6. Zorg ervoor dat er drie films een nieuwe plek krijgen in de `eigenTopFilms` array en getoond worden in de `Eigen Top 3 Films` ordered list.
-   7. :rocket: EXTRA: het is wel handig als de gekozen films niet meer in het lijstje voorkomen wanneer je een volgende keuze gaat maken. Kijk of je dit voor elkaar kunt krijgen door de `display` property van het gekozen list item op `hidden` te zetten.
+   7. :rocket: EXTRA: het is wel handig als de gebruiker ziet welke films hij al heeft gekozen. Je kunt dit op meerdere manieren oplossen, bedenk zelf een logische, duidelijke oplossing.
 ### Eindresultaat
 
+![Eindresultaat](img/eindresultaat-top3films.gif)
 
 ### Bronnen
 

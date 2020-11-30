@@ -1,0 +1,20 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kiesfilm-button{
+    color: black;
+    background-color: lime;
+    display: flex;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.kiesfilm-button:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}

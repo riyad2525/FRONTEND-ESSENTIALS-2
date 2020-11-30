@@ -51,10 +51,6 @@ console.log(topFilms[1]); //geeft "The Shawshank Redemption"
 console.log(topFilms[2]); //geeft "Schindler's List"
 ```
 
-
-:rocket: Je kunt ook een array maken door het `new` keyword te gebruiken. Je maakt dan een nieuw Array object aan: `topFilms = new Array("The Godfather", "The Shawshank Redemption", "Schindler's List");`. Gebruik de manier die voor jou het duidelijkst is.
-
-
 ### Leerdoelen
 
 1. Ik kan een array aanmaken in Javascript en ik kan waardes uit een array halen en tonen in de console.

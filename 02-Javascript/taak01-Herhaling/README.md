@@ -4,7 +4,7 @@
 
 ### Uitleg
 
-Je hebt in de voorgaande modules geleerd hoe je variabelen declareert. Daarna heb je geleerd hoe je waardes opslaat in een variabele. Je hebt ook geleerd hoe je de gebruiker dmv een prompt om informatie kunt vragen. In deze taak gaan we de tekst die een gebruiker invoert opslaan in een variabele. 
+Je hebt in de voorgaande modules geleerd hoe je variabelen declareert. Daarna heb je geleerd hoe je waardes opslaat in een variabele. Je hebt ook geleerd hoe je de gebruiker dmv een prompt om input kunt vragen. In deze taak gaan we de tekst die een gebruiker invoert opslaan in een variabele. 
 
 #### Variabelen en console.log()
 ```js
