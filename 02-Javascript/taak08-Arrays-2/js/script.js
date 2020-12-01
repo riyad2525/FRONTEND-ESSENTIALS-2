@@ -11,8 +11,6 @@ topFilms = [
     "Lawrence of Arabia"
 ];
 
-console.log(topFilms);
-
 document.querySelector(".film1-ranking").innerHTML = 1;
 document.querySelector(".film1-naam").innerHTML = topFilms[0];
 document.querySelector(".film2-ranking").innerHTML = 2;
@@ -35,6 +33,3 @@ document.querySelector(".film10-ranking").innerHTML = 10;
 document.querySelector(".film10-naam").innerHTML = topFilms[9];
 
 
-function kiesFavorieteFilm(){
-
-}

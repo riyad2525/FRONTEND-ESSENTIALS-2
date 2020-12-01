@@ -1,20 +1,14 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-.kiesfilm-button{
-    color: black;
-    background-color: lime;
-    display: flex;
-    width: 200px;
-    align-items: center;
-    justify-content: center;
+th{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
     padding: 10px;
-    border: 1px solid black;
 }
-
-.kiesfilm-button:hover{
-    background-color: greenyellow;
-    color: black;
-    cursor: pointer;
+td{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    padding: 10px;
 }
