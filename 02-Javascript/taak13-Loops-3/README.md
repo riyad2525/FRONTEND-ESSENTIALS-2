@@ -1,21 +1,22 @@
 # FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak04
 
-## Arrays
+## Loops
 
 ### Uitleg
 
-
+De Fibonacci reeks is een speciale reeks getallen waarbij elk volgende getal in de reek de som is van de twee voorgaande getallen. 
 
 ### Leerdoelen
 
-1. Ik kan 
+1. Ik kan elementen toevoegen aan een array vanuit een for loop 
 
 ### Opdracht
 
+1. Maak een for loop die de volgende getallen in de console toont: `1,2,3,5,8,13,21`.
 
 ### Eindresultaat
 
-
+![](img/eindresultaat-fibonacci.jpg)
 ### Bronnen
 
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
