@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak01
+# FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak05
 
 ## Herhaling
 

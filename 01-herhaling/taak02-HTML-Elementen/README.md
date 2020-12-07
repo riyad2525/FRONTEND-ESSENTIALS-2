@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 01
+# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 02
 
 ## Basic HTML 
 

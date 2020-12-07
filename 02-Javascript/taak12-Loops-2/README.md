@@ -1,5 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak04
-
+# FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak12
 ## Loops
 
 ### Uitleg
