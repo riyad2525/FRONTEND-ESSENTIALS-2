@@ -27,7 +27,7 @@ topFilm = []; //definieer een lege array genaamd topFilm
 ```js
 topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"]; //een gevulde array met top 3 films
 ```
-Zoals je ziet definieer je een array door tussen twee vierkante haakjes (`[ ]`) waardes op te geven gescheiden door een komma (`,`). Eén zo'n waarde in een array noem je een **element** van de array. De `topFilms` array in bovenstaande code bevat dus 3 **elementen**.
+:zap: Zoals je ziet definieer je een array door tussen twee vierkante haakjes (`[ ]`) waardes op te geven gescheiden door een komma (`,`). Eén zo'n waarde in een array noem je een **element** van de array. De `topFilms` array in bovenstaande code bevat dus 3 **elementen**.
 
 Je kunt allerlei verschillende datatypes opslaan in een array (al dan niet gemengd). Meestal sla je maar 1 soort datatype op in een array, dat is wel zo overzichtelijk.
 ```js

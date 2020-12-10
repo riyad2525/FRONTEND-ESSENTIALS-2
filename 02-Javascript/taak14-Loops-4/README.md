@@ -20,7 +20,7 @@ voorbeeldString.length; // geeft terug: 28 (spaties worden meegeteld)
 
 ### Leerdoelen
 
-1. Ik kan 
+1. Ik begrijp dat een string niet anders is dan een speciale soort array
 
 ### Opdracht
 

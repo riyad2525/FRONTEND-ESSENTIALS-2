@@ -8,9 +8,13 @@ Als je de vorige taken allemaal goed hebt uitgevoerd dan heb je alle basis blokk
 
 Er staat een half afgemaakt simpel spelletje klaar in de bronbestanden van deze taak. Aan jouw de taak om de code werkend te krijgen. Een deel van de code staat al voor je klaar  maar je bent vrij om je eigen oplossing te verzinnen.
 
+:rocket: Een van de moeilijkste dingen tijdens het programmeren is het verzinnen van logische namen voor variabelen en functies. Als je dit goed doet blijft je code leesbaar en begrijpelijk. Voor anderen maar ook voor jezelf als je na een lange tijd weer oude code induikt. 
+
+:rocket: Een functie doet vaak *iets* mét *iets*. In het algemeen noem je functie dan ook het formaat: `werkwoord` + `bijvoegelijk naamwoord`. B.v. `telopScore()` of `updateScherm()` of `startGame()`.
+
 ### Leerdoelen
 
-1. Ik kan een
+1. Ik kan een TODO://leerdoelen
 
 ### Opdracht
 
