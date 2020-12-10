@@ -14,7 +14,7 @@ Er staat een half afgemaakt simpel spelletje klaar in de bronbestanden van deze 
 
 ### Leerdoelen
 
-1. Ik kan een TODO://leerdoelen
+1. Ik kan 
 
 ### Opdracht
 
