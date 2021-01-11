@@ -4,9 +4,9 @@
 
 ### Uitleg
 
-Je kunt Emmet ook gebruiken om snel HTML elementen in te voegen in een HTML bestand zoals `index.html`.
+Je kunt Emmet ook gebruiken om snel HTML-elementen in te voegen in een HTML-bestand zoals `index.html`.
 
-:zap: Gebruik `+` om verschillende HTML elementen op hetzelfde niveau in te voegen.
+:zap: Gebruik `+` om verschillende HTML-elementen op hetzelfde niveau in te voegen.
 
 ![Emmet insert HTML elements](img/emmet-insert-elements.gif)
 

@@ -20,9 +20,9 @@ div{ /* element selector */
 }
 ```
 
-De CSS regels in b.v. `style.css` worden van boven naar onder toegepast. De laatste toekenning van een waarde geldt. Daarnaast worden regels toegepast op elementen op basis van hoe specifiek de **selector** is die wordt gebruikt. 
+De CSS-regels in bv. `style.css` worden van boven naar onder toegepast. De laatste toekenning van een waarde geldt. Daarnaast worden regels toegepast op elementen op basis van hoe specifiek de **selector** is die wordt gebruikt. 
 
-Bijvoorbeeld: De `div` selector is heel erg algemeen, alle `div` elementen krijgen de CSS stijlen toegepast die in de body van de CSS regel staan. Als je één `div` voorziet van een class en de regels spreken elkaar tegen dan wint de regel die je bij de class definieert. Als je een id meegeeft dan overschrijft die weer ook de class CSS regel. Zie onderstaand voorbeeld.
+Bijvoorbeeld: De `div` selector is heel erg algemeen, alle `div` elementen krijgen de CSS-stijlen toegepast die in de body van de CSS-regel staan. Als je één `div` voorziet van een class en de regels spreken elkaar tegen dan wint de regel die je bij de class definieert. Als je een id meegeeft dan overschrijft die weer ook de class CSS regel. Zie onderstaand voorbeeld.
 
 ```css
 div{
@@ -40,14 +40,14 @@ div{
     background-color: green;
 }
 ```
-Dit noem je CSS specificity. 
+Dit noem je CSS-specificity. 
 
 In deze taak gaan we via een online game leren over hoe selectors kunt opbouwen zodat je elementen kunt stijlen zonder elk element een eigen class te geven.
 
 
 ### Leerdoelen
 
-1. Ik weet van de verschillende manieren om een HTML element te selecteren vanuit CSS
+1. Ik ken de verschillende manieren om een HTML-element te selecteren vanuit CSS
 
 ### Opdracht
 
@@ -55,7 +55,7 @@ In deze taak gaan we via een online game leren over hoe selectors kunt opbouwen 
 
 ### Eindresultaat
 
-Je hoeft niet alles te onthouden. Zorg ervoor dat je begrijpt welke mogelijkheden je ongeveer hebt. Je kunt altijd later weer opzoeken hoe je b.v. een element in een ander element selecteert.
+Je hoeft niet alles te onthouden. Zorg ervoor dat je begrijpt welke mogelijkheden je ongeveer hebt. Je kunt altijd later weer opzoeken hoe je bv. een element in een ander element selecteert.
 
 ### Bronnen
 

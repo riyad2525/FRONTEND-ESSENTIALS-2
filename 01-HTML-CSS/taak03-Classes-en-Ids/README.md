@@ -4,7 +4,7 @@
 
 ### Uitleg
 
-Nu je in de vorige taken hebt geleerd om HTML elementen in te voegen zijn we aangekomen bij Classes en Ids. Die kun je ook snel aangeven met de bekende `#` voor een id en `.` voor een class.
+Nu je in de vorige taken hebt geleerd om HTML-elementen in te voegen zijn we aangekomen bij Classes en Id's. Die kun je ook snel aangeven met de bekende `#` voor een id en `.` voor een class.
 
 ![Emmet Classes en Ids invoegen](img/emmet-class-en-id.gif)
 
@@ -15,9 +15,9 @@ Nu je in de vorige taken hebt geleerd om HTML elementen in te voegen zijn we aan
 ### Opdracht
 
 1. Maak in de body van `index.html` de volgende elementen:
-   1. Een header element met daarin een div met een class genaamd `logo`.
-   2. Een main element met daarin 2 divs met classes genaamd `left` en `right`
-   3. Een footer element met daarin 3 divs met classes genaamd `left`, `middle` en `right`
+   1. Een header-element met daarin een div met een class genaamd `logo`.
+   2. Een main-element met daarin 2 divs met classes genaamd `left` en `right`
+   3. Een footer-element met daarin 3 divs met classes genaamd `left`, `middle` en `right`
 ### Eindresultaat
 
 
