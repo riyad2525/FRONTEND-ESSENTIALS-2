@@ -98,7 +98,9 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 
 > :rocket: Om deze opdracht goed uit te kunnen voeren is het verstandig deze op te delen in kleinere stukjes. Je hebt geleerd om met behulp van functies je code op te delen. Maak daar slim gebruik van.  
 > 
-> Het is niet te doen om in één keer de juiste code te produceren. Doe dit dus stapje voor stapje en gebruik `console.log` om de resultaten te bekijken en te controleren. Een eerste stap zou kunnen zijn om een functie te maken die van een opgegeven string "ABC" de posities in het alfabet in de console toont. Het antwoord is duidelijk en gemakkelijk te controleren. Een volgende stap zou dan kunnen zijn om de gevonden posities in een array te zetten, bij elke waarde in de array 1 op te tellen en dit weer te tonen in de console. Als je dan als laatste stap de waarden in die array weer om kan zetten naar letter met een functie dan heb je de basis van de opdracht al klaar. 
+> TIP: Het is niet te doen om in één keer de juiste code te produceren. Doe dit dus stapje voor stapje en gebruik `console.log` om de resultaten te bekijken en te controleren. Een eerste stap zou kunnen zijn om een functie te maken die van een opgegeven string "ABC" de posities in het alfabet in de console toont. Het antwoord is duidelijk en gemakkelijk te controleren. Een volgende stap zou dan kunnen zijn om de gevonden posities in een array te zetten, bij elke waarde in de array 1 op te tellen en dit weer te tonen in de console. Als je dan als laatste stap de waarden in die array weer om kan zetten naar letters met een functie dan heb je de basis van de opdracht al klaar. 
+>
+> TIP2: In `script.js` zijn een aantal voorbeeld functies gezet. Pas deze aan of gebruik ze als voorbeeld om te zien hoe je je programma kunt opbouwen.  
 ### Eindresultaat
 
 **De flow van het programma ziet er ongeveer zo uit:**  
@@ -111,7 +113,7 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
    4. Loop door de array met gevonden posities en loop per positie door het alfabet tot je de letter vind die overeenkomt met de positie. Sla de gevonden letters op in een array of string.
    5. Toon de uitkomst aan de gebruiker in een HTML element.
 4. Gebruiker drukt op de knop ontsleutel ->
-   1. Zelfde als hierboven maar dan iets gewijzigd in de berekeningen. 
+   1. Zelfde als hierboven maar dan iets gewijzigd in de berekeningen die je uitvoert. 
 
 
 
