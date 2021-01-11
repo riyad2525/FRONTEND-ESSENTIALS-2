@@ -4,12 +4,12 @@
 
 ### Uitleg
 
-Je heb geleerd hoe je met Emmet snel een HTML element kunt invoegen met daarbij een class of id. In deze taak gaan we nog 3 handigheidjes van Emmet.
+Je heb geleerd hoe je met Emmet snel een HTML-element kunt invoegen met daarbij een class of id. In deze taak gaan we nog 3 handigheidjes van Emmet.
 
 Gebruik `{}` om tekst in een HTML element aan te geven.  
-Gebruik `$` om een getal toe te voegen aan een HTML element
+Gebruik `$` om een getal toe te voegen aan een HTML-element
 
-Zie onderstaande gif. :rocket: letop de preview van de Emmet afkorting!
+Zie onderstaande gif. :rocket: letop de preview van de Emmet-afkorting!
 
 ![Emmet inhoud en dynamische nummering](img/emmet-inhoud-nummers.gif)
 
@@ -19,7 +19,7 @@ Zie onderstaande gif. :rocket: letop de preview van de Emmet afkorting!
 
 ### Opdracht
 
-1. Maak een Ordered List met daarin 5 list items. De UL heeft een class genaamd `lijstje` en de LI elementen hebben een class genaamd `item1`, `item2`, etc. 
+1. Maak een Ordered List met daarin 5 listitems. De UL heeft een class genaamd `lijstje` en de LI-elementen hebben een class genaamd `item1`, `item2`, etc. 
 
 ### Eindresultaat
 

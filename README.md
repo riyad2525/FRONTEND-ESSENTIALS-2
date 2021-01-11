@@ -4,7 +4,7 @@ In deze module ga je verder met het leren over HTML, CSS en Javascript. In de vo
 
 ## Uitleg
 
-In deze module gaan we verder met het toepassen van eerder geleerde HTML en CSS technieken. De nadruk zal liggen op het gebruik van Javascript.
+In deze module gaan we verder met het toepassen van eerder geleerde HTML- en CSS-technieken. De nadruk zal liggen op het gebruik van Javascript.
 
 
 
