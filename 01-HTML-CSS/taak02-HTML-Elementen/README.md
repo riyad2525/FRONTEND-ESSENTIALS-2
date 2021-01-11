@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 02
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 02
 
 ## Basic HTML 
 
@@ -29,6 +29,7 @@ Je kunt Emmet ook gebruiken om snel HTML elementen in te voegen in een HTML best
 
 ![Eindresultaat](img/eindres-emmet-elementen.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)
+[Emmet.io](https://www.emmet.io/)  
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

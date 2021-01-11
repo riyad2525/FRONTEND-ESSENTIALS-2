@@ -28,7 +28,7 @@ for (i = 0; i < 100; i++) {
 
 ![](img/eindresultaat-console-mod2.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Operators](https://www.w3schools.com/js/js_operators.asp)  
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  

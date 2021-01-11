@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 07
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 07
 
 ## Basic HTML 
 
@@ -41,7 +41,7 @@ Bovenstaande HTML en CSS levert de dobbelsteen met het getal 1 op. In bovenstaan
 
 ![Eindresultaat](img/eindres-dobbelstenen.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
 [Emmet.io](https://www.emmet.io/)  
 [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

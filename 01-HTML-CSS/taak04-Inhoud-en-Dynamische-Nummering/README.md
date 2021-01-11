@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 04
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 04
 
 ## Basic HTML 
 
@@ -25,6 +25,7 @@ Zie onderstaande gif. :rocket: letop de preview van de Emmet afkorting!
 
 ![Eindresultaat](img/eindres-list.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)
+[Emmet.io](https://www.emmet.io/)  
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
