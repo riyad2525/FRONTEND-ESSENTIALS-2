@@ -52,6 +52,6 @@ function toonAlert(tekst){
 
 ![](img/taak05-kleuren.gif)
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)

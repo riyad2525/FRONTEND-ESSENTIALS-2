@@ -30,6 +30,6 @@ Er staat een half afgemaakt simpel spelletje klaar in de bronbestanden van deze 
 ![Hoger Lager eindresultaat](img/taak06-hoger-lager.gif)
 
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)

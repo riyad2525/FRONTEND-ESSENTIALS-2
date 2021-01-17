@@ -17,7 +17,7 @@ De Fibonaccireeks is een speciale reeks getallen waarbij elk volgende getal in d
 ### Eindresultaat
 
 ![](img/eindresultaat-fibonacci.jpg)
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
 [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

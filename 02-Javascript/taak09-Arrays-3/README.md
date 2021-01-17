@@ -58,7 +58,7 @@ console.log(topFilmsOmgedraaid); // Toont het arrayobject waarbij de elementen v
 
 ![Eindresultaat](img/eindresultaat-top3films.gif)
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
 [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

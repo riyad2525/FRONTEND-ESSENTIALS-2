@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 03
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 03
 
 ## Basic HTML 
 
@@ -22,6 +22,7 @@ Nu je in de vorige taken hebt geleerd om HTML-elementen in te voegen zijn we aan
 
 
 
-### Bronnen
+### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)
+[Emmet.io](https://www.emmet.io/)  
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

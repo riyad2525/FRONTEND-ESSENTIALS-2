@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 01
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 01
 
 ## Basic HTML 
 
@@ -29,6 +29,7 @@ Onderstaande code in `index.html`.
 
 ![](img/eindres-html-template.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)
+[Emmet.io](https://www.emmet.io/)  
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

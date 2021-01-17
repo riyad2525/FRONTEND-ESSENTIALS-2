@@ -17,7 +17,6 @@ var voorbeeldString = "Dit is een array van letters";
 voorbeeldString.length; // geeft terug: 28 (spaties worden meegeteld)
 ```
 
-
 ### Leerdoelen
 
 1. Ik begrijp dat een string niet anders is dan een speciale soort array
@@ -30,7 +29,7 @@ voorbeeldString.length; // geeft terug: 28 (spaties worden meegeteld)
 ### Eindresultaat
 
 
-### Bronnen
+### :heart: Bronnen
 [W3S Javascript String Methods](https://www.w3schools.com/js/js_string_methods.asp)  
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
 [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

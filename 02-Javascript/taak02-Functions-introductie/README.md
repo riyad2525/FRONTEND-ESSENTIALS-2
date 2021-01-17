@@ -53,6 +53,7 @@ Er is meer te doen met functies dan we nu laten zien maar voor nu onthou dat je 
 
 3 functies die ook worden aangeroepen in `script.js`.
 
-### Bronnen
+### :heart: Bronnen
 
-[W3S Javascript Functions](https://www.w3schools.com/js/js_functions.asp)
+[W3S - Javascript Functions](https://www.w3schools.com/js/js_functions.asp)  
+[Javascript.info - Functions](https://javascript.info/function-basics)

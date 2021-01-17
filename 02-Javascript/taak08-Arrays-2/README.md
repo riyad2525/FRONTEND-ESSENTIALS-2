@@ -31,6 +31,6 @@ Er is ook een tabel voor je gemaakt met daarin de informatie uit de array, deze 
 
 ![Eindresultaat](img/eindresultaat-topFilms.gif)
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)

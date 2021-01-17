@@ -54,6 +54,6 @@ Bovenstaande code laat onder elkaar de volgende getallen zien: 11, 7 en 410.
 
 De vermenigvuldiging van de twee opgegeven getallen wordt getoond in de console.
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)

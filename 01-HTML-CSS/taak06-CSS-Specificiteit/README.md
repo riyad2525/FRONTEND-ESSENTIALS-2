@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 06
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 06
 
 ## Basic HTML 
 
@@ -57,7 +57,7 @@ In deze taak gaan we via een online game leren over hoe selectors kunt opbouwen 
 
 Je hoeft niet alles te onthouden. Zorg ervoor dat je begrijpt welke mogelijkheden je ongeveer hebt. Je kunt altijd later weer opzoeken hoe je bv. een element in een ander element selecteert.
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)  
 [CSS Diner](https://flukeout.github.io/)  

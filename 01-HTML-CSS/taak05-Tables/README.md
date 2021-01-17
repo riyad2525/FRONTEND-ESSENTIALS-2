@@ -1,4 +1,4 @@
-# FRONTEND-ESSENTIALS-2 - 01 - Herhaling - Taak 05
+# FRONTEND-ESSENTIALS-2 - 01 - HTML/CSS - Taak 05
 
 ## Basic HTML 
 
@@ -45,6 +45,7 @@ Voor elke stap terug in de hiërarchie die je wilt maken, gebruik je een `^`. Di
 
 ![Eindresultaat Emmet level up table](img/eindres-table.jpg)
 
-### Bronnen
+### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)
+[Emmet.io](https://www.emmet.io/)  
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

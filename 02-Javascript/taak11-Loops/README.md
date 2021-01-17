@@ -52,7 +52,7 @@ Soms is een plaatje handiger. In onderstaande gif zie je hoe de Javascript code 
 ### Eindresultaat
 
 Er worden 100 waardes (0 t/m 99) in de console getoond. 
-### Bronnen
+### :heart: Bronnen
 
 [W3S Javascript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  

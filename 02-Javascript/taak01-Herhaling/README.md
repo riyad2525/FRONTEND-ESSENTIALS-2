@@ -1,7 +1,6 @@
 # FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak01
 
 ## Herhaling
-
 ### Uitleg
 
 Je hebt in de voorgaande modules geleerd hoe je variabelen declareert. Daarna heb je geleerd hoe je waardes opslaat in een variabele. Je hebt ook geleerd hoe je de gebruiker d.m.v. een prompt om input kunt vragen. In deze taak gaan we de tekst die een gebruiker invoert, opslaan in een variabele. 
@@ -68,7 +67,7 @@ Gebruiker vult zijn naam twee keer in en zegt twee keer dat het niet goed is.
 
 > ![](img/taak01-ok-cancel-cancel.gif)
 
-### Bronnen
+### :heart: Bronnen
 
 [W3S - Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp)  
 [W3S - JavaScript if else](https://www.w3schools.com/js/js_if_else.asp)  
