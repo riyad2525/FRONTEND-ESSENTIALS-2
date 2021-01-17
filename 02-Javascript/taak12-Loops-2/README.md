@@ -13,12 +13,12 @@ for (i = 0; i < 100; i++) {
     }
 }
 ```
-:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulo operator. Zie [Bronnen](#bronnen).
+:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulo-operator. Zie [Bronnen](#bronnen).
 
 
 ### Leerdoelen
 
-1. Ik kan een for-loop maken en binnen de for loop handelingen uitvoeren
+1. Ik kan een for-loop maken en binnen de for-loop handelingen uitvoeren
 
 ### Opdracht
 

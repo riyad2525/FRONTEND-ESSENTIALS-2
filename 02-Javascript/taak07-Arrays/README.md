@@ -18,7 +18,7 @@ film7 = "The Wizard of Oz";
 film8 = "One Flew Over the Cuckoo's Nest";
 film9 = "Lawrence of Arabia";
 ```
-Dit wordt als snel onhandig. Wat als je een film wilt toevoegen? Of de volgorde wilt veranderen? Omdat het vaak voorkomt dat je een lijstje van gegevens gebruikt in een programma bestaat er een speciale variabele voor: de array. In een array kun je meerdere waardes opslaan. Eigenlijk is het niet anders dan een lijstje:
+Dit wordt al snel onhandig. Wat als je een film wilt toevoegen? Of de volgorde wilt veranderen? Omdat het vaak voorkomt dat je een lijstje van gegevens gebruikt in een programma, bestaat er een speciale variabele voor: de array. In een array kun je meerdere waardes opslaan. Eigenlijk is het niet anders dan een lijstje:
 
 ```js
 topFilm = []; //definieer een lege array genaamd topFilm
@@ -38,7 +38,7 @@ topGetallen = [433, 321, 201];
 topAllerlei = ["Dit is een string", 321, true]; 
 ```
 
-Ok maar hoe haal je nu gegevens op uit een array? In het geval van de `topFilms` array haal je de waarde op door de array aan te spreken gevolgd door `[ ]` met daarin de **index** van het **element**. Zie onderstaande code:
+Oké, maar hoe haal je nu gegevens op uit een array? In het geval van de `topFilms`-array, haal je de waarde op door de array aan te spreken gevolgd door `[ ]` met daarin de **index** van het **element**. Zie onderstaande code:
 ```js
 topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"]; //definitie van array
 console.log(topFilms[1]);
@@ -57,12 +57,12 @@ console.log(topFilms[2]); //geeft "Schindler's List"
 
 ### Opdracht
 
-1. Maak 3 arrays aan in `script.js` met telkens een andere persoonlijke top 3. Dit mogen film, games, muziek of wat je wilt zijn. 
-2. Toon de inhoud van alle elementen in de 3 arrays in je console (dat betekent dus negen(!) `console.log` statements).
+1. Maak 3 arrays aan in `script.js` met telkens een andere persoonlijke top 3. Dit mogen film, games, muziek of iets anders (wat je maar wilt) zijn. 
+2. Toon de inhoud van alle elementen in de 3 arrays in je console (dat betekent dus negen(!) `console.log`-statements).
 
 ### Eindresultaat
 
-Een lijstje van negen top3 dingen getoond in de console van je browser
+Een lijstje van negen top3-dingen getoond in de console van je browser
 
 ### Bronnen
 
