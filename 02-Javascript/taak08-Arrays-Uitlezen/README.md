@@ -33,4 +33,5 @@ Er is ook een tabel voor je gemaakt met daarin de informatie uit de array, deze 
 
 ### :heart: Bronnen
 
-[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [Javascript.info Arrays](https://javascript.info/array)

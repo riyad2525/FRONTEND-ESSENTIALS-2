@@ -3,3 +3,14 @@ td, th{
     border: 1px solid black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+/* code hieronder weg */
+
+.label{
+    padding: 10px;
+    background-color:lightslategray;
+    color: lightgray;
+    width: 200px;
+    margin: 2px;
+}

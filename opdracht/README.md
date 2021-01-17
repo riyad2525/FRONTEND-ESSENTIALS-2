@@ -8,6 +8,8 @@ In deze eindopdracht gaan we deze versleutelmanier gebruiken om te tekst te vers
 
 ### Uitleg
 
+> :warning: Als je de onderstaande tabellen niet goed kan zien open dan deze README.md in VS Code en gebruik de Markdown preview: <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>V</kbd>. Of gebruik <kbd>CTRL</kbd>+<kbd>K</kbd><kbd>V</kbd> om de preview meteen te openen in een naastliggend venster. 
+
 Een gemakkelijke manier om een woord te versleutelen is door alle letters één of meer plaatsen op te schuiven in het alfabet. Als we bijvoorbeeld elke letter in het woord `BOOM` 1 plaats verschuiven dan krijg je `CPPN` als versleuteld bericht.
 
 Bericht | B | O | O | M
@@ -98,9 +100,9 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 
 > :rocket: Om deze opdracht goed uit te kunnen voeren is het verstandig deze op te delen in kleinere stukjes. Je hebt geleerd om met behulp van functies je code op te delen. Maak daar slim gebruik van.  
 > 
-> TIP: Het is niet te doen om in één keer de juiste code te produceren. Doe dit dus stapje voor stapje en gebruik `console.log` om de resultaten te bekijken en te controleren. Een eerste stap zou kunnen zijn om een functie te maken die van een opgegeven string "ABC" de posities in het alfabet in de console toont. Het antwoord is duidelijk en gemakkelijk te controleren. Een volgende stap zou dan kunnen zijn om de gevonden posities in een array te zetten, bij elke waarde in de array 1 op te tellen en dit weer te tonen in de console. Als je dan als laatste stap de waarden in die array weer om kan zetten naar letters met een functie dan heb je de basis van de opdracht al klaar. 
+> :rocket: Het is niet te doen om in één keer de juiste code te produceren. Doe dit dus stapje voor stapje en gebruik `console.log` om de resultaten te bekijken en te controleren. Een eerste stap zou kunnen zijn om een functie te maken die van een opgegeven string "ABC" de posities in het alfabet in de console toont. Het antwoord is duidelijk en gemakkelijk te controleren. Een volgende stap zou dan kunnen zijn om de gevonden posities in een array te zetten, bij elke waarde in de array 1 op te tellen en dit weer te tonen in de console. Als je dan als laatste stap de waarden in die array weer om kan zetten naar letters met een functie dan heb je de basis van de opdracht al klaar. 
 >
-> TIP2: In `script.js` zijn een aantal voorbeeld functies gezet. Pas deze aan of gebruik ze als voorbeeld om te zien hoe je je programma kunt opbouwen.  
+> :rocket: In `script.js` zijn een aantal voorbeeld functies gezet. Pas deze aan of gebruik ze als voorbeeld om te zien hoe je je programma kunt opbouwen.  
 ### Eindresultaat
 
 **De flow van het programma ziet er ongeveer zo uit:**  

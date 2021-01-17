@@ -55,5 +55,5 @@ Er is meer te doen met functies dan we nu laten zien maar voor nu onthou dat je 
 
 ### :heart: Bronnen
 
-[W3S - Javascript Functions](https://www.w3schools.com/js/js_functions.asp)  
-[Javascript.info - Functions](https://javascript.info/function-basics)
+* [W3S - Javascript Functions](https://www.w3schools.com/js/js_functions.asp)  
+* [Javascript.info - Functions](https://javascript.info/function-basics)

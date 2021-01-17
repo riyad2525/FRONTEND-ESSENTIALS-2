@@ -13,12 +13,13 @@ for (i = 0; i < 100; i++) {
     }
 }
 ```
-:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulo operator. Zie [Bronnen](#bronnen).
+:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulus operator. Zie [Bronnen](#bronnen). De operator deelt een getal en geeft terug wat er over blijft van die deling: b.v. 5 % 2 -> 5 gedeeld door 2 is 2 met een restant van 1. Dus, 5 % 2 = 1. En 5 % 3 = 2.
 
 
 ### Leerdoelen
 
 1. Ik kan een for-loop maken en binnen de for loop handelingen uitvoeren
+2. Ik weet wat de modulus operator (%) doet en kan deze gebruiken
 
 ### Opdracht
 
@@ -30,6 +31,7 @@ for (i = 0; i < 100; i++) {
 
 ### :heart: Bronnen
 
-[W3S Javascript Operators](https://www.w3schools.com/js/js_operators.asp)  
-[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
-[W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)
+* [W3S Javascript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
+* [W3S Javascript Operators](https://www.w3schools.com/js/js_operators.asp)  
+* [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
+* [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

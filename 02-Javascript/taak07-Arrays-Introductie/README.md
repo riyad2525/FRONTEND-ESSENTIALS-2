@@ -66,4 +66,5 @@ Een lijstje van negen top3 dingen getoond in de console van je browser
 
 ### :heart: Bronnen
 
-[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [Javascript.info Arrays](https://javascript.info/array)

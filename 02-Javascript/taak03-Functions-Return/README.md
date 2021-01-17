@@ -57,9 +57,8 @@ Bovenstaande code laat een random getal zien in je console tussen 1 en 100. De c
 
 ### :heart: Bronnen
 
-[W3S Javascript Functions](https://www.w3schools.com/js/js_functions.asp)  
-
-[W3S Javascript random() Method](https://www.w3schools.com/jsref/jsref_random.asp)  
-
-[W3S Javascript floor() Method](https://www.w3schools.com/jsref/jsref_floor.asp)  
-[W3S Javascript ceil() Method](https://www.w3schools.com/jsref/jsref_ceil.asp)  
+* [W3S Javascript Functions](https://www.w3schools.com/js/js_functions.asp)
+* [Javascript.info - Functions](https://javascript.info/function-basics) 
+* [W3S Javascript random() Method](https://www.w3schools.com/jsref/jsref_random.asp)  
+* [W3S Javascript floor() Method](https://www.w3schools.com/jsref/jsref_floor.asp)  
+* [W3S Javascript ceil() Method](https://www.w3schools.com/jsref/jsref_ceil.asp)  

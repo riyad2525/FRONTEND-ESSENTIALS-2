@@ -56,4 +56,5 @@ De vermenigvuldiging van de twee opgegeven getallen wordt getoont in de console.
 
 ### :heart: Bronnen
 
-[W3S Javascript Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)
+* [W3S Javascript Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)
+* [Javascript.info - Functions](https://javascript.info/function-basics)

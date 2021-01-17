@@ -60,5 +60,5 @@ console.log(topFilmsOmgedraaid); // Toont het array object waarbij de elementen 
 
 ### :heart: Bronnen
 
-[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
-[W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)
+* [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
+* [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

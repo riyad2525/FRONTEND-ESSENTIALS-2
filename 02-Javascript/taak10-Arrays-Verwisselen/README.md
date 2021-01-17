@@ -4,7 +4,7 @@
 
 ### Uitleg
 
-We gaan nog een kleine maar uitdagende oefening doen met arrays. In `index.html` staat weer een lijstje van films in een tabel. Er zijn nu alleen twee kolommen bijgekomen met daarin twee buttons. Je hebt vast wel eens een soortgelijk interface element gezien. De bedoeling is dat als je op het pijltje omhoog drukt van een bepaalde rij deze rij omhoog wordt verplaatst in de lijst. En omlaag als je op de omlaag button klikt. 
+We gaan nog een kleine maar uitdagende oefening doen met arrays. In `index.html` staat weer een lijstje van films in een tabel. Er zijn nu alleen twee kolommen bijgekomen met daarin twee buttons voor elke rije. Je hebt vast wel eens een soortgelijk interface element gezien. De bedoeling is dat als je op het pijltje omhoog drukt van een bepaalde rij deze rij omhoog wordt verplaatst in de lijst. En omlaag als je op de omlaag button klikt. 
 
 Naast de buttons voor omhoog en omlaag is er ook een button die de lijst weer in de originele volgorde zet.
 
@@ -13,7 +13,7 @@ Je kunt dit probleem op meerdere manier oplossen. Je kunt ervoor kiezen om elke 
 :rocket: **TIP**: eigenlijk verwissel je telkens twee films van plaats in de lijst als je op een omhoog of omlaag button klikt. Kun je daar handig gebruik van maken?
 ### Leerdoelen
 
-1. Ik kan 
+1. Ik kan elementen in een array verwisselen van plaats
 
 ### Opdracht
 
@@ -27,5 +27,5 @@ Je kunt dit probleem op meerdere manier oplossen. Je kunt ervoor kiezen om elke 
 
 ### :heart: Bronnen
 
-[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
-[W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)
+* [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
+* [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

@@ -54,4 +54,5 @@ function toonAlert(tekst){
 
 ### :heart: Bronnen
 
-[W3S onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
+* [W3S onclick Event](https://www.w3schools.com/jsref/event_onclick.asp)
+* [Javascript.info - Functions](https://javascript.info/function-basics)

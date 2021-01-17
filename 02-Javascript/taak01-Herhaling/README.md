@@ -39,7 +39,7 @@ else{
 ### Leerdoelen
 
 1. Ik kan de prompt(), alert() en confirm() dialog boxes gebruiken om een gebruiker informatie te vragen en de ingevoerde informatie opslaan in een variabele. 
-2. Ik kan if/else statement gebruiken om de flow van een (klein) programma te bepalen.
+2. Ik kan if/else statement gebruiken om de flow van een programma te bepalen.
 
 ### Opdracht
 
@@ -69,9 +69,8 @@ Gebruiker vult zijn naam twee keer in en zegt twee keer dat het niet goed is.
 
 ### :heart: Bronnen
 
-[W3S - Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp)  
-[W3S - JavaScript if else](https://www.w3schools.com/js/js_if_else.asp)  
-
-[W3S - Window prompt() Method](https://www.w3schools.com/jsref/met_win_prompt.asp)  
-[W3S - Window confirm() Method](https://www.w3schools.com/jsref/met_win_confirm.asp)  
-[W3S - Window alert() Method](https://www.w3schools.com/jsref/met_win_alert.asp)
+* [W3S - Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp)  
+* [W3S - JavaScript if else](https://www.w3schools.com/js/js_if_else.asp)  
+* [W3S - Window prompt() Method](https://www.w3schools.com/jsref/met_win_prompt.asp)  
+* [W3S - Window confirm() Method](https://www.w3schools.com/jsref/met_win_confirm.asp)  
+* [W3S - Window alert() Method](https://www.w3schools.com/jsref/met_win_alert.asp)
