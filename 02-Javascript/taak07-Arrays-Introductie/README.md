@@ -38,7 +38,7 @@ topGetallen = [433, 321, 201];
 topAllerlei = ["Dit is een string", 321, true]; 
 ```
 
-Ok maar hoe haal je nu gegevens op uit een array? In het geval van de `topFilms` array haal je de waarde op door de array aan te spreken gevolgd door `[ ]` met daarin de **index** van het **element**. Zie onderstaande code:
+Oké, maar hoe haal je nu gegevens op uit een array? In het geval van de `topFilms`-array, haal je de waarde op door de array aan te spreken gevolgd door `[ ]` met daarin de **index** van het **element**. Zie onderstaande code:
 ```js
 topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"]; //definitie van array
 console.log(topFilms[1]); //toont "The Shawshank Redemption" in de console
@@ -58,12 +58,12 @@ console.log(topFilms[3]); //geeft een array foutmelding want er bestaat geen ele
 
 ### Opdracht
 
-1. Maak 3 arrays aan in `script.js` met telkens een andere persoonlijke top 3. Dit mogen film, games, muziek of wat je wilt zijn. 
-2. Toon de inhoud van alle elementen in de 3 arrays in je console (dat betekent dus negen(!) `console.log` statements).
+1. Maak 3 arrays aan in `script.js` met telkens een andere persoonlijke top 3. Dit mogen film, games, muziek of iets anders (wat je maar wilt) zijn. 
+2. Toon de inhoud van alle elementen in de 3 arrays in je console (dat betekent dus negen(!) `console.log`-statements).
 
 ### Eindresultaat
 
-Een lijstje van negen top3 dingen getoond in de console van je browser
+Een lijstje van negen top3-dingen getoond in de console van je browser
 
 ### :heart: Bronnen
 

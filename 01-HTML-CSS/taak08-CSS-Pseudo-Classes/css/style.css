@@ -1,18 +1,13 @@
-a{
-    background-color:aqua;
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu li a{
+    background-color: lightskyblue;
     padding: 10px;
-    margin: 5px;
-    text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-li{
-    padding: 12px;
-}
-
-a:hover{
-    background-color: chartreuse;
-}   
-a:active{
-    background-color: blueviolet;
 }

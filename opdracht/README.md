@@ -1,10 +1,6 @@
-# FRONTEND-ESSENTIALS-2 - Eindopdracht
+# FRONTEND-ESSENTIALS-2 - 02-Javascript - Taak14
 
-##  Caesar Cypher
-
-De Caesar Cypher (of Caesarcijfer in het nederlands) is een manier om tekst te versleutelen. Zie [Wikipedia](https://simple.wikipedia.org/wiki/Caesar_cipher). 
-
-In deze eindopdracht gaan we deze versleutelmanier gebruiken om te tekst te versleutelen en ook om deze weer te ontsleutelen.
+## Loops
 
 ### Uitleg
 
@@ -42,15 +38,16 @@ Plek in het alfabet | 11 | 12 | 1 | 19
 Nieuwe letter plek in het alfabet | 13 | 27 | 16 | 38
 Versleuteld bericht | M | ? | P | ?
 
-Maar wat te doen als de positie van de versleutelde letter groter is dan het aantal letters in het alfabet? Simpel, we beginnen dan gewoon weer aan het begin van het alfabet. Dus om de letter O te versleutelen met de letter L (de 2e letters van het bericht en het codewoord) kom je op de letter met positie 27. Er zijn 26 letters in het alfabet dus positie 27 beland uiteindelijk weer op positie 1 (27 - 26 = 1) en dat is de letter A. Hetzelfde doen we met het versleutelen van de letter M met de letter S: 38 - 26 = 12 = letter L.
+```js
+var voorbeeldString = "Dit is een array van letters";
+voorbeeldString[0]; //geeft terug: D
+```
+Net als een array ziet Javascript een string als een object. En net zoals je bij een array de method `array.push()` kunt gebruiken om een element toe te voegen aan een array kun je ook verschillende methods gebruiken om strings te manipuleren.
 
-Bericht | B | O | O | M
--- | --|--|--|--
-Plek in het alfabet | 2 | 15 | 15 | 19
-Codewoord | K | L | A | S
-Plek in het alfabet | 11 | 12 | 1 | 19
-Nieuwe letter plek in het alfabet | 13 | 27 | 16 | 38
-Versleuteld bericht | M | A | P | L
+```js
+var voorbeeldString = "Dit is een array van letters";
+voorbeeldString.length; // geeft terug: 28 (spaties worden meegeteld)
+```
 
 Misschien valt je al op dat dit voorbeeld niet meer werkt als je een bericht hebt dat groter is dan het codewoord. De oplossing hiervoor is simpelweg het herhalen van het codewoord:
 
@@ -121,4 +118,7 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 
 ### :heart: Bronnen
 
-[Wikipedia - Caesarcijfer ](https://nl.wikipedia.org/wiki/Caesarcijfer)
+### Bronnen
+[W3S Javascript String Methods](https://www.w3schools.com/js/js_string_methods.asp)  
+[W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
+[W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)

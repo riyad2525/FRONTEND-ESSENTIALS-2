@@ -10,7 +10,7 @@ Een string kun je zien als een array van letters.
 var voorbeeldString = "Dit is een array van letters";
 voorbeeldString[0]; //geeft terug: D
 ```
-Net als een array ziet Javascript een string als een object. En net zoals je bij een array de method `array.push()` kunt gebruiken om een element toe te voegen aan een array kun je ook verschillende methods gebruiken om strings te manipuleren.
+Net als een array, ziet Javascript een string als een object. En net zoals je bij een array de method `array.push()` kunt gebruiken om een element toe te voegen aan een array, kun je ook verschillende methods gebruiken om strings te manipuleren.
 
 ```js
 var voorbeeldString = "Dit is een array van letters";

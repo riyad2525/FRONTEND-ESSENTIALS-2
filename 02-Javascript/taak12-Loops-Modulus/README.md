@@ -18,7 +18,7 @@ for (i = 0; i < 100; i++) {
 
 ### Leerdoelen
 
-1. Ik kan een for-loop maken en binnen de for loop handelingen uitvoeren
+1. Ik kan een for-loop maken en binnen de for-loop handelingen uitvoeren
 2. Ik weet wat de modulus operator (%) doet en kan deze gebruiken
 
 ### Opdracht

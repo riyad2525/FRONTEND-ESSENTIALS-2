@@ -4,7 +4,11 @@
 
 ### Uitleg
 
+<<<<<<< HEAD
+Zoals je weet gebruik je HTML voor de structuur van een website, CSS voor de vormgeving en Javascript voor de interactie / berekeningen. Gedurende de ontwikkeling van de CSS-standaard zijn er echter steeds meer dingen die eerst alleen met Javascript konden, ingebouwd in CSS en kun je ook simpele dingen als mouse-over-veranderingen met alleen CSS-code oplossen.
+=======
 Zoals je weet gebruik je HTML voor de structuur van een website, CSS voor de vormgeving en Javascript voor de interactie / berekeningen. Gedurende de ontwikkeling van de CSS standaard zijn er echter steeds meer dingen die vroeger alleen met Javascript konden nu mogelijk met alleen CSS.
+>>>>>>> b35c05ce15c415e4143a0310eade4edd5b3d4bf2
 
 Zo kun je bijvoorbeeld aangeven dat een link actief is of gemakkelijk een mouseover style toekennen. Dit doe je met zogenaamde **pseudo selectors**. In deze taak gaan we er twee uitlichten die het maken van een gebruiksvriendelijk menu voor je website wat gemakkelijker maken.
 
