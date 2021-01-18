@@ -31,5 +31,5 @@ Onderstaande code in `index.html`.
 
 ### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

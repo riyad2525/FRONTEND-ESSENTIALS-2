@@ -59,5 +59,5 @@ Je hoeft niet alles te onthouden. Zorg ervoor dat je begrijpt welke mogelijkhede
 
 ### :heart: Bronnen
 
-[W3S CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)  
-[CSS Diner](https://flukeout.github.io/)  
+* [W3S CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)  
+* [CSS Diner](https://flukeout.github.io/)  

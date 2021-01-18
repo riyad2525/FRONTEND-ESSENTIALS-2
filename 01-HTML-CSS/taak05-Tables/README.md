@@ -47,5 +47,5 @@ Voor elke stap terug in de hiërarchie die je wilt maken, gebruik je een `^`. Di
 
 ### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

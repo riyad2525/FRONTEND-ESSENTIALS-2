@@ -13,7 +13,7 @@ for (i = 0; i < 100; i++) {
     }
 }
 ```
-:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulus operator. Zie [Bronnen](#bronnen). De operator deelt een getal en geeft terug wat er over blijft van die deling: b.v. 5 % 2 -> 5 gedeeld door 2 is 2 met een restant van 1. Dus, 5 % 2 = 1. En 5 % 3 = 2.
+:zap: De operator die wordt gebruikt in de bovenstaande if-statement noem je modulus operator. Zie [Bronnen](#bronnen). Je bent al bekend met andere operators zoals `+`, `-`, `*` en `/`. De modulus operator deelt een getal en geeft terug wat er over blijft van die deling: b.v. 5 % 2 -> 5 gedeeld door 2 is 2 met een restant van 1. Dus, 5 % 2 = 1. En 5 % 3 = 2.
 
 
 ### Leerdoelen

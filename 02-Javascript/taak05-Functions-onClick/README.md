@@ -8,11 +8,11 @@ Je hebt nu in voorgaande taken gezien hoe je een functie maakt met het `function
 
 #### Het `onClick` attribuut 
 
-Zoals je weet wordt een script van boven naar onder uitgevoerd. Tot nu toe hebben we telkens een functie gedefinieerd en deze daarna onderaan het script aangeroepen. Dit betekent dat de functie(s) worden uitgevoerd op het moment dat een bezoeker de website opent. Vaak wil je echter dat er iets gebeurt op het moment dat de gebruiker op een knop drukt of zoiets, dit doen we door een functie aan te roepen vanuit het `onClick` attribuut in een html bestand. Zie onderstaande code.
+Zoals je weet wordt een script van boven naar onder uitgevoerd. Tot nu toe hebben we telkens een functie gedefinieerd en deze daarna onderaan het script aangeroepen. Dit betekent dat de functie(s) worden uitgevoerd op het moment dat een bezoeker de website opent. Vaak wil je echter dat er iets gebeurt op het moment dat de gebruiker op een knop drukt of zoiets, dit doen we door een functie aan te roepen vanuit het `onClick` attribuut in een html bestand. Een attribuut kun je ook zien als een eigenschap, in dit geval van de button. Voor de duidelijk is nog een attribuut ingevuld, het `name` attribuut dat als waarde `alertbutton` heeft. Zie onderstaande code.
 
 ```HTML
 <!-- index.html -->
-<button onclick="toonAlert()">Knop</button>
+<button onclick="toonAlert()" name="alertbutton">Knop</button>
 ```
 
 ```js

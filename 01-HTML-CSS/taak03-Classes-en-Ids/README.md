@@ -24,5 +24,5 @@ Nu je in de vorige taken hebt geleerd om HTML-elementen in te voegen zijn we aan
 
 ### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

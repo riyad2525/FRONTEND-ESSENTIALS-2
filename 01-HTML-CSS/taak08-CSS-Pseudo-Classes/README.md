@@ -39,7 +39,6 @@ Een menu waarvan de achtergrond kleur van de menuopties veranderd als je met je 
 
 ### :heart: Bronnen
 
-[W3S Pseudo Classes](https://www.w3schools.com/Css/css_pseudo_classes.asp)  
-
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [W3S Pseudo Classes](https://www.w3schools.com/Css/css_pseudo_classes.asp)  
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

@@ -14,7 +14,7 @@ Er staat een half afgemaakt simpel spelletje klaar in de bronbestanden van deze 
 
 ### Leerdoelen
 
-1. Ik kan 
+1. Ik kan functies schrijven om zo de code voor een simpel programma op te delen, overzichtelijk & begrijpelijk te houden en code te hergebruiken.
 
 ### Opdracht
 

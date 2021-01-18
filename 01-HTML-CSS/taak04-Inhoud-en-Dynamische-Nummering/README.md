@@ -27,5 +27,5 @@ Zie onderstaande gif. :rocket: letop de preview van de Emmet-afkorting!
 
 ### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)

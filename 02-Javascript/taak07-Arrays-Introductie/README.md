@@ -18,7 +18,7 @@ film7 = "The Wizard of Oz";
 film8 = "One Flew Over the Cuckoo's Nest";
 film9 = "Lawrence of Arabia";
 ```
-Dit wordt als snel onhandig. Wat als je een film wilt toevoegen? Of de volgorde wilt veranderen? Omdat het vaak voorkomt dat je een lijstje van gegevens gebruikt in een programma bestaat er een speciale variabele voor: de array. In een array kun je meerdere waardes opslaan. Eigenlijk is het niet anders dan een lijstje:
+Dit wordt als snel onhandig. Wat als je een film wilt toevoegen? Of de volgorde wilt veranderen? Omdat het vaak voorkomt dat je een lijstje van gegevens gebruikt in een programma bestaat er een speciale soort variabele voor: de array. In een array kun je meerdere waardes opslaan. Eigenlijk is het niet anders dan een lijstje:
 
 ```js
 topFilm = []; //definieer een lege array genaamd topFilm
@@ -41,7 +41,7 @@ topAllerlei = ["Dit is een string", 321, true];
 Ok maar hoe haal je nu gegevens op uit een array? In het geval van de `topFilms` array haal je de waarde op door de array aan te spreken gevolgd door `[ ]` met daarin de **index** van het **element**. Zie onderstaande code:
 ```js
 topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"]; //definitie van array
-console.log(topFilms[1]);
+console.log(topFilms[1]); //toont "The Shawshank Redemption" in de console
 ```
 Welke film naam wordt er nu getoond in je console? Je zou denken dat `"The Godfather"` als tekst in je console verschijnt. Maar dat is niet het geval. **Arrays beginnen namelijk altijd met tellen vanaf 0**, dus:
 ```js
@@ -49,6 +49,7 @@ topFilms = ["The Godfather", "The Shawshank Redemption", "Schindler's List"]; //
 console.log(topFilms[0]); //geeft "The Godfather"
 console.log(topFilms[1]); //geeft "The Shawshank Redemption"
 console.log(topFilms[2]); //geeft "Schindler's List"
+console.log(topFilms[3]); //geeft een array foutmelding want er bestaat geen element met index gelijk aan 3
 ```
 
 ### Leerdoelen

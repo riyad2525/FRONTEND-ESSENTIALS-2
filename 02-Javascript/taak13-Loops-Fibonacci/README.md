@@ -4,7 +4,7 @@
 
 ### Uitleg
 
-De Fibonacci reeks is een speciale reeks getallen waarbij elk volgende getal in de reek de som is van de twee voorgaande getallen. De eerste twee getallen in de reek zijn 0 en 1 `[0,1]`. Het volgende getal is de som van die twee, dus 1 `[0,1,1,]`. En het getal daarop is dus de soms van de twee voorgaande getallen, dus 2 `[0,1,1,2]`, etc.
+De Fibonacci reeks is een speciale reeks getallen waarbij elk volgende getal in de reek de som is van de twee voorgaande getallen. De eerste twee getallen in de reek zijn 0 en 1 `[0,1]`. Het volgende getal is de som van die twee, dus 1 `[0,1,1,]`. En het getal daarop is dus de soms van de twee voorgaande getallen, dus 2 `[0,1,1,2]`, etc. In deze taak ga je door gebruik te maken van een for loop de fibonacci reeks tonen in de console.
 
 ### Leerdoelen
 

@@ -8,7 +8,7 @@
 
 Een functie in Javascript (of elke andere programmeer taal) is een manier om je code op te delen in *op zichzelf staande*, *herbruikbare* stukken code. 
 
-Je hebt al gebruik gemaakt van functies als je een `alert()`, `prompt()` of `confirm()` dialog box hebt gebruikt in je code. Er zijn nog veel meer functies die je standaard in elke browser kunt gebruiken. Maar voor alle functies geld dat je ze aanroept met de naam van de functie gevolgd door `()`. 
+Je hebt al gebruik gemaakt van functies als je een `alert()`, `prompt()` of `confirm()` dialog box hebt gebruikt in je code. Er zijn nog veel meer functies die je standaard in elke browser kunt gebruiken. Voor alle functies geld dat je ze aanroept met de naam van de functie gevolgd door `()`. 
 
 :zap: **FYI**: Javascript is een taal. Wat je eigenlijk zegt in die taal als je `prompt()` schrijft is: pak het stukje code genaamd `prompt` en voer dit uit `()`.
 

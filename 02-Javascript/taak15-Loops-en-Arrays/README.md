@@ -24,8 +24,6 @@ for (let i = 0; i < voorbeeldArray.length; i++) {
 // De voorbeeldArray ziet er dus zo uit aan het einde van de for loop: [2,3,4,5].
 ```
 
-
-
 Stel je bent een multiplayer spel aan het maken. Er kunnen tussen de 3 en 10 spelers tegelijk spelen. Het spel bestaat uit meerdere rondes en de score van de speler worden bijgehouden in een array. Na elke ronde in ons denkbeeldige spel hebben alle spelers een aantal punten verdiend en je wilt deze optellen bij het totaal aantal punten per speler. Omdat je van te voren niet precies weet hoeveel spelers er meespelen ga je uit van de lengte van de `spelersScore` array. 
 
 

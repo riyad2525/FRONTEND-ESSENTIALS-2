@@ -43,5 +43,6 @@ Bovenstaande HTML en CSS levert de dobbelsteen met het getal 1 op. In bovenstaan
 
 ### :heart: Bronnen
 
-[Emmet.io](https://www.emmet.io/)  
-[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet.io](https://www.emmet.io/)  
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Flexbox op Scrimba](https://scrimba.com/learn/flexbox)

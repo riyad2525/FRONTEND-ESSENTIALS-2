@@ -23,7 +23,7 @@ voorbeeldString.length; // geeft terug: 28 (spaties worden meegeteld)
 
 ### Opdracht
 
-1. Schrijf een functie die als parameter een willekeurige string accepteert en deze letter voor letter output naar de console.
+1. Schrijf een functie die als parameter een willekeurige string accepteert en deze letter voor letter toont in de console.
 2. Zorg ervoor dat de willekeurige string wordt gevraagd aan de gebruiker met een prompt.
 
 ### Eindresultaat

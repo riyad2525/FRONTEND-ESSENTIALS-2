@@ -57,18 +57,19 @@ Misschien valt je al op dat dit voorbeeld niet meer werkt als je een bericht heb
 Bericht | S | T | U | D | E | N | T
 -- | --|--|--|-- | -- | -- | -- 
 Codewoord | K | L | A | S | K | L | A
-Bericht positie | 19 | 20 | 21 | 4 | 5 |14 | 20
+Bericht plek in het alfabet | 19 | 20 | 21 | 4 | 5 |14 | 20
 Berekening | + | + | + | + | + | + | +
-Codewoord positie | 11 | 12 | 1 | 19 | 11 | 12 | 1
+Codewoord plek in het alfabet | 11 | 12 | 1 | 19 | 11 | 12 | 1
 -- | = | = | = | = | = | = | =
 Positie versleutelde letter | 30 | 32 | 22 | 23 | 16 | 26 | 21
-Versleuteld bericht | D | F | V | W | P | Z | U 
+Groter dan 26? -26! | 4 | 6 | 22 | 23 | 16 | 26 | 21
+Versleutelde letter | D | F | V | W | P | Z | U 
 
 #### Ontsleutelen
 
 Je kunt nu het versleutelde bericht DFVWPZU delen met iemand en die zal in combinatie met het codewoord KLAS het bericht moeten kunnen ontsleutelen. In de tabelvorm zoals hierboven ziet dat er zo uit:
 
-Versleuteld bericht | D | F | V | W | P | Z | U 
+Versleuteld bericht (STUDENT) | D | F | V | W | P | Z | U 
 -- | --|--|--|-- | -- | -- | -- 
 Codewoord | K | L | A | S | K | L | A
 Positie versleutelde letter | 4 | 6 | 22 | 23 | 16 | 26 | 21
@@ -87,12 +88,13 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 ### Leerdoelen
 
 1. Ik kan functies met argumenten en return waarden toepassen
-2. Ik kan arrays vullen 
-3. Ik kan een forloop gebruiken om door een array te lopen en berekeningen uitvoeren op de waarden van een array
+2. Ik kan een for loop gebruiken om door een array te lopen en berekeningen uitvoeren op de waarden van een array
+3. Ik kan mijn code opdelen in functies om zo overzichtelijke begrijpbare code te schrijven
 ### Opdracht
 
 1. Maak een webapp die een bericht *ver*sleuteld en *ont*sleuteld.
    1. Vraag de gebruiker via prompts om een bericht en codewoord op te geven.
+      1. :rocket: TIP: gebruik tijdens het schrijven van je code een vaste waarde zodat je niet telkens de prompt hoeft in te vullen.
    2. Toon het het opgegeven bericht en het code woord aan de gebruiker in HTML elementen gemaakt in `index.html`
    3. Maak twee knoppen in `index.html` genaamd `versleutel` en `ontsleutel` die allebei een functie aanroepen via het `onclick` attribuut.
    4. Voer de nodige berekeningen uit om het bericht te *versleutelen* en toon het versleutelde bericht aan de gebruiker als deze op de knop versleutel drukt.
@@ -116,9 +118,6 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
    5. Toon de uitkomst aan de gebruiker in een HTML element.
 4. Gebruiker drukt op de knop ontsleutel ->
    1. Zelfde als hierboven maar dan iets gewijzigd in de berekeningen die je uitvoert. 
-
-
-
 
 ### :heart: Bronnen
 

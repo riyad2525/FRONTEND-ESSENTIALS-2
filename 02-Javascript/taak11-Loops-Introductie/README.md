@@ -35,7 +35,7 @@ for(
     console.log(i); 
 }  
 ```
-:zap: De standaard is om `i` te gebruiken als variabele in loops. Je zou deze variabele ook `teller` of `counter` kunnen noemen, want dat is het eigenlijk. Maar omdat het zo'n bekend onderdeel is van elke loop is het voor iedereen duidelijk wat deze variabele doet, dus volstaat `i`.
+:zap: De standaard is om `i` te gebruiken als variabele in loops. Je zou deze variabele ook `teller` of `counter` kunnen noemen, want dat is het eigenlijk. Maar omdat het zo'n bekend onderdeel is van elke loop is het voor iedereen duidelijk wat deze variabele doet, dus volstaat `i`. Afhankelijk van wie je het vraagt staat de i voor _index_ of _iteratie_. In een loop noem je elke keer dat de code wordt uitgevoerd één iteratie van die loop. Dus bij een for loop waarbij `i = 0; i < 5; i++` geldt worden er 5 iteraties uitgevoerd.
 
 Soms is een plaatje handiger. In onderstaande gif zie je hoe de Javascript code regel voor regel wordt uitgevoerd. Zoals je zit wordt alleen aan het begin de eerste statement uitgevoerd en daarna de andere twee tot `i` gelijk is aan 10 en de conditie van statement 2 niet meer waar (true) is. 
 
