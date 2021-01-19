@@ -1,57 +1,81 @@
 strAlfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ";
-arrInputPosities = [];
-arrCodewordPosities = [];
-arrOutputPosities = [];
 
-//functie die door de strAlfabet string loopt en de positie teruggeeft van de meegegeven letter
-function getLetterPositie(letter){
-    for (i = 0; i < strAlfabet.length; i++) {
-        if(letter == strAlfabet[i]){
-            return i+1;
-        }
-    }
-}
+var strInput = "";          //input string
+var strCodeword = "";       //codeword string
+var strCodewordFull = "";   //output string
 
-function zetBerichtOmNaarPosities(bericht){
-    var tmpArray = [];
-    for (let i = 0; i < bericht.length; i++) {
+arrInputPosities = [];      //array van input posities
+arrCodewordPosities = [];   //array van codeword posities
+arrOutputPosities = [];     //array van output posities
+
+//Zet een string om naar een array met posities
+function stringNaarPosities(str){
+    outputArray = [];
+    for (let i = 0; i < str.length; i++){
         for (let j = 0; j < strAlfabet.length; j++) {
-            if(bericht[i] == strAlfabet[j]){
-                // arrBerichtPosities.push(j);
-                tmpArray.push(j);
+            if(str[i].toUpperCase() == strAlfabet[j]){
+                outputArray.push(j);
+                // console.log("Letter: " + i + " = " + str[i] + " -> positie in alfabet = " + j);
             }
         }
     }
-    // console.log(arrBerichtPosities);
-    return tmpArray;
-
+    console.log("berekende posities: " + outputArray.toString())
+    return outputArray;
 }
 
-// console.log(getLetterPositie("Z"));
-// zetBerichtOmNaarPosities("ABCD");
+//Zet een array met posities om naar een string
+function positiesNaarString(arr){
+    var outputString = "";
+    //TODO: opdracht 1
+    return outputString;
+}
 
-
-// alles hieronder weg
-
-
-
-strInput = prompt("Voer bericht in ");
-strCodeword = prompt("Voer code in");
-
-document.querySelector(".input").innerHTML = strInput;
-document.querySelector(".codeword").innerHTML = strCodeword;
-
-function encr(){
-    arrInputPosities =  zetBerichtOmNaarPosities(strInput.toUpperCase());
-    arrCodewordPosities =  zetBerichtOmNaarPosities(strCodeword.toUpperCase());
-    console.log(arrInputPosities);
-    console.log(arrCodewordPosities);
+//Geeft een array terug waarbij het codeword herhaald wordt totdat de lengte overeenkomt met het te versleutelen bericht
+//Dus als het bericht STUDENT (7 letters) is en het codeword KLAS dan krijg je KLASKLA (7 letters) terug van deze functie.
+function vermenigvuldigCodeword(strInput, strCodeword){
+    var outputString = "";
     
+    var inputLength = strInput.length;
+    var codewordLength = strCodeword.length;
+
+    var intDiv = Math.floor(inputLength / codewordLength); //het aantal keer dat het codeword in zijn geheel in het bericht past
+    var intMod = inputLength % codewordLength; //het aantal letters dat overblijft die nog moeten worden aangevuld
+
+    //TODO: opdracht 2
+
+    // console.log("Codeword full: " + outputString);
+    return outputString;
+}
+debugger;
+//functie die een een bericht versleuteld.
+function versleutel(){
+    strInput = document.querySelector("#input").value; 
+    strCodeword = document.querySelector("#codeword").value;   
+
+    console.log("input: " + strInput);
+    console.log("codeword: " + strCodeword);
+
+    strCodewordFull = vermenigvuldigCodeword(strInput, strCodeword);
+    arrCodewordPosities = stringNaarPosities(strCodewordFull);
+    arrInputPosities = stringNaarPosities(strInput);
+
+    outputArray = [];
     for (let i = 0; i < arrInputPosities.length; i++) {
-        arrOutputPosities[i] = arrInputPosities[i] + arrCodewordPosities[i];
+        if(arrInputPosities[i] + arrCodewordPosities[i] > 26){
+            outputArray.push((arrInputPosities[i] + arrCodewordPosities[i])-26);
+        }
+        else{ 
+            outputArray.push(arrInputPosities[i] + arrCodewordPosities[i]);
+        }
+        
     }
-    
-    console.log(arrOutputPosities);
-    document.querySelector(".output").innerHTML = arrOutputPosities.toString();
+
+
+    // console.log("versleuteld bericht: " + positiesNaarString(outputArray));
+    // document.querySelector("#output").value = positiesNaarString(outputArray);
+    strCodewordFull = [];
 }
 
+function ontsleutel(){
+    //TODO: opdracht 3
+}

@@ -89,32 +89,16 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 3. Ik kan mijn code opdelen in functies om zo overzichtelijke begrijpbare code te schrijven
 ### Opdracht
 
-1. Maak een webapp die een bericht *ver*sleuteld en *ont*sleuteld.
-   1. Vraag de gebruiker via prompts om een bericht en codewoord op te geven.
-      1. :rocket: TIP: gebruik tijdens het schrijven van je code een vaste waarde zodat je niet telkens de prompt hoeft in te vullen.
-   2. Toon het het opgegeven bericht en het code woord aan de gebruiker in HTML elementen gemaakt in `index.html`
-   3. Maak twee knoppen in `index.html` genaamd `versleutel` en `ontsleutel` die allebei een functie aanroepen via het `onclick` attribuut.
-   4. Voer de nodige berekeningen uit om het bericht te *versleutelen* en toon het versleutelde bericht aan de gebruiker als deze op de knop versleutel drukt.
-   5. Voer de nodige berekeningen uit om het bericht te *ontsleutelen* en toon het ontsleutelde bericht aan de gebruiker als deze op de knop ontsleutel drukt.
+Er is een deel van de code al voor je aangemaakt in `script.js`. Er zijn 3 stukken die nog moeten worden aangepast zodat de applicatie werkt zoals te zien is bij [Eindresultaat](#eindresultaat).
 
-> :rocket: Om deze opdracht goed uit te kunnen voeren is het verstandig deze op te delen in kleinere stukjes. Je hebt geleerd om met behulp van functies je code op te delen. Maak daar slim gebruik van.  
-> 
-> :rocket: Het is niet te doen om in één keer de juiste code te produceren. Doe dit dus stapje voor stapje en gebruik `console.log` om de resultaten te bekijken en te controleren. Een eerste stap zou kunnen zijn om een functie te maken die van een opgegeven string "ABC" de posities in het alfabet in de console toont. Het antwoord is duidelijk en gemakkelijk te controleren. Een volgende stap zou dan kunnen zijn om de gevonden posities in een array te zetten, bij elke waarde in de array 1 op te tellen en dit weer te tonen in de console. Als je dan als laatste stap de waarden in die array weer om kan zetten naar letters met een functie dan heb je de basis van de opdracht al klaar. 
->
-> :rocket: In `script.js` zijn een aantal voorbeeld functies gezet. Pas deze aan of gebruik ze als voorbeeld om te zien hoe je je programma kunt opbouwen.  
+1. Opdracht 1. Zie regel 29 in `script.js`: Maak de `positiesNaarString` functie af. Deze lijkt heel erg op de `stringNaarPosities` functie.
+2. Opdracht 2. Zie regel 44 in `script.js`: Maak de `vermenigvuldigCodeword` functie af. Een deel van de functie bestaat al, aan jou om met 2 losse for-loops een correcte string terug te geven. Zie commentaar boven de functie.
+3. Opdracht 3. De `versleutel` functie versleuteld een opgegeven bericht. Maak de `ontsleutel` functie af.
+
+> :rocket: Maak gebruik de van de `console.log` statements die al in de code staan of schrijf je eigen statements. En Gebruik <kbd>CTRL</kbd>+<kbd>/</kbd> om een regel code om te zetten naar commentaar en andersom.
+
+> :rocket: Probeer stapje voor stapje de code die je schrijft te begrijpen en kijk of het werkt zoals je denkt door `console.log` te gebruiken.
 ### Eindresultaat
-
-**De flow van het programma ziet er ongeveer zo uit:**  
-1. Vraag aan de gebruiker mbv promts om input (bericht en codewoord) en sla deze op in twee variabelen
-2. Toon de input in HTML elementen aan de gebruiker
-3. Gebruiker drukt op de knop versleutel ->
-   1. Loop door het opgegeven bericht en bepaal voor elke letter de positie in het alfabet. Sla dit getal op in een array.
-   2. Loop door het opgegeven codewoord en bepaal voor elke letter de positie in het alfabet. Sla dit op in een array.
-   3. Tel de gevonden posities bij elkaar op en sla de uitkomst op in een array. Check of een uitkomst groter is dan 26 en voer dan de juiste berekening uit om een geldige waarde op te slaan in de array. (dus geen getallen boven de 26)
-   4. Loop door de array met gevonden posities en loop per positie door het alfabet tot je de letter vind die overeenkomt met de positie. Sla de gevonden letters op in een array of string.
-   5. Toon de uitkomst aan de gebruiker in een HTML element.
-4. Gebruiker drukt op de knop ontsleutel ->
-   1. Zelfde als hierboven maar dan iets gewijzigd in de berekeningen die je uitvoert. 
 
 ![](img/eindopdr-eindres.gif)
 
