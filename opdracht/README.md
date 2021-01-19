@@ -116,9 +116,10 @@ De eerste 2 kolommen hebben als positie een negatief getal! Om dit toch goed om 
 4. Gebruiker drukt op de knop ontsleutel ->
    1. Zelfde als hierboven maar dan iets gewijzigd in de berekeningen die je uitvoert. 
 
+![](img/eindopdr-eindres.gif)
+
 ### :heart: Bronnen
 
-### Bronnen
 [W3S Javascript String Methods](https://www.w3schools.com/js/js_string_methods.asp)  
 [W3S Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
 [W3S Javascript Array push() method](https://www.w3schools.com/jsref/jsref_push.asp)
