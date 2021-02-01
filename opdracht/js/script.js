@@ -1,4 +1,4 @@
-strAlfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ";
+strAlfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 var strInput = "";          //input string
 var strCodeword = "";       //codeword string
