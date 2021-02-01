@@ -46,7 +46,7 @@ function vermenigvuldigCodeword(strInput, strCodeword){
     // console.log("Codeword full: " + outputString);
     return outputString;
 }
-debugger;
+
 //functie die een een bericht versleuteld.
 function versleutel(){
     strInput = document.querySelector("#input").value; 
