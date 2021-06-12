@@ -33,6 +33,7 @@ Het omzetten van de letter B gaat dan als volgt:
 Bericht | B | O | O | M
 -- | --|--|--|--
 Plek in het alfabet | 2 | 15 | 15 | 19
+
 Codewoord | K | L | A | S
 Plek in het alfabet | 11 | 12 | 1 | 19
 Nieuwe letter plek in het alfabet | 13 | 27 | 16 | 38

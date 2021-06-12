@@ -8,6 +8,26 @@
 }
 
 .menu li a{
+
     background-color: lightskyblue;
     padding: 10px;
+    
+}
+
+.menu li a:link{
+
+    color: blue;
+}
+/* This code doen't work. */
+.menu li a:visited{
+
+    color: orangered;
+}
+.menu li a:hover{
+
+    color: yellow;
+}
+.menu li a:active{
+
+    color: red;
 }

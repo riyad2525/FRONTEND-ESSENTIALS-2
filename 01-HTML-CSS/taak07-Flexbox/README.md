@@ -9,6 +9,7 @@ Met Flexbox kun je gemakkelijker elementen positioneren. Je hebt al gebruik gema
 In deze taak gaan we dit nog een keer oefenen.
 
 ```html
+
 <div class="dobbelsteen dobbelsteen1">
     <div class="stip"></div>
 </div>

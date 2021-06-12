@@ -30,9 +30,34 @@
 /* TIP: Laat bovenstaande code staan */
 
 /* dobbelsteen1 */
+.dobbelsteen1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: row; */
+    min-width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 2px black;
+    border: 3px solid black;
+}
 
 /* dobbelsteen2 */
-
+.dobbelsteen2 .links{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    background-color: red;
+}
+.dobbelsteen2 .rechts{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-color: red;
+}
 /* dobbelsteen3 */
 
 /* dobbelsteen4 */
